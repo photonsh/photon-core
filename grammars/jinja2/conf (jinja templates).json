@@ -1,0 +1,1 @@
+{"fileTypes":["conf.j2","jinja2","j2"],"firstLineMatch":"^{% extends [\"'][^\"']+[\"'] %}","name":"Generic Config (Jinja Templates)","patterns":[{"include":"source.jinja"},{"include":"text.generic-config"}],"scopeName":"text.generic-config.jinja"}

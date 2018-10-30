@@ -1,0 +1,1 @@
+{"fileTypes":["xml.j2","jinja2","j2"],"firstLineMatch":"^{% extends [\"'][^\"']+[\"'] %}","name":"XML (Jinja Templates)","patterns":[{"include":"source.jinja"},{"include":"text.xml"}],"scopeName":"text.xml.jinja"}

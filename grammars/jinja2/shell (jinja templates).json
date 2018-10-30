@@ -1,0 +1,1 @@
+{"fileTypes":["sh.j2","jinja2","j2"],"firstLineMatch":"^{% extends [\"'][^\"']+[\"'] %}","name":"Shell Script (Jinja Templates)","patterns":[{"include":"source.jinja"},{"include":"source.shell"}],"scopeName":"source.shell.jinja"}
