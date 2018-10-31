@@ -23,7 +23,6 @@
     "escape-html": "^1.0.3",
     "parse5": "^5.1.0",
     "tape": "^4.9.1",
-    "tape-promise": "^4.0.0",
     "vscode-textmate": "^4.0.1"
   },
   "devDependencies": {
